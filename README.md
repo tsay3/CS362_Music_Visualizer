@@ -5,6 +5,10 @@ The system is an audio/music visualizer system. Audio is fed into one Arduino vi
 * **Audio input and processing:** Adrian de Guzman
 * **Bluetooth transmissions and visual effects:** Thomas Say
 
+# Bluetooth demo:
+
+https://youtube.com/shorts/mC5PHe4e0u4
+
 # Final demo:
 
 https://www.youtube.com/watch?v=F4iciuDqxhM
